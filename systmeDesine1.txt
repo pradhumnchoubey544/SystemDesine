@@ -1,0 +1,29 @@
+3 4 clock 4 
+5 clock 6 clock 
+
+ # microservices :- 
+ key points
+ -easy to adopt future tackstack becouse all servises arejust connected by api endpoint only
+ -one servise not eccect other servises.
+ -we can scale it more in according to use 
+
+
+# way to make robust and flexible architacher by:- 
+  (1)Loose Coupling ,(2)High cohesion
+
+Loose Coupling :- changing in one service shout NOT require chnage in other servise.
+                Ex:-payment and order ,if you change in payment servise it shoud not effect order servise and both should me as diff servise.
+High Cohesion :- related functionality shoud be part of the same microservices.
+                 Related behaviors sit togather & unrelated behaviours sit separately.
+                 Asy this questions "i am putting this tow modules in same microservise are thery related " 
+                 if they are same go and put in same module,if they are not create sepreat one so you can reuse it again.
+                 
+
+
+
+
+
+
+
+
+ 
