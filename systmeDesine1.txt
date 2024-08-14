@@ -21,6 +21,144 @@ High Cohesion :- related functionality shoud be part of the same microservices.
 
 
 
+task assign take by your self 
+connect with Kishor for db idea
+
+
+
+
+1)what is distributed system
+2)monolithic architected
+3)microservice architected
+4)what is distributed data base
+6) HLD and LLD ??
+ 
+
+Q diff in System Architecture/Network Architecture VS Software Architecture/Application Architecture. ?
+System Architecture:-
+Broad scope: hardware & software
+Focus: interaction of systems, components, and networks
+Used for: complex systems (enterprise IT, cloud, telecommunications)
+Goal: create resilient, scalable, and secure systems
+Includes: Centralized vs Decentralized vs Distributed Systems
+Software Architecture:-
+Narrow scope: software components
+Focus: internal design of software applications
+Used for: software development (web, mobile, enterprise apps)
+Goal: build modular, maintainable, and scalable applications
+Includes: Monolithic vs Microservice Architectures
+
+# HLD and LLD specifically fall under the domain of software architecture.
+#Yes, system architecture and software architecture are different roles, similar to a developer and tester.
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------
+System Design Interview & Expectations
+Process of System Design
+Design problem focused on requirement analysis and data modeling
+Generic components design diagram of a large-scale system.
+Trade-offs in a large-scale system
+Load Balancer
+SS: Termination and SSL passthrough
+Reverse Proxy
+Web sockets
+Monoliths and Microservices
+Facebook messenger design using web sockets
+O Auth 2.0
+JWT tokens
+CDN
+Caching
+DNS
+HTTPS working
+Zookeeper
+Distributed analysis in a large-scale system
+Linear hashing, etc.
+-------------------------------------------------------------------------
+Introduction – Modern System Design
+System Design 
+About Abstraction & its importance
+Non-functional System Characteristics
+Back-of-the-envelope Calculations
+Introduction to Building Blocks for Modern System Design
+DNS – Introduction
+Load Balancers – Introduction
+Database – Introduction & Types of DB
+Key value store
+CDN (Content Delivery Network)
+Sequencer
+Distributed Monitoring
+Projects – Google Maps, Twitter, Uber, etc.
+-------------------------------------------------------------------------
+Introduction to Systems and System Life Cycle
+Systems Engineering and its Relevance and Benefits
+Requirements Elicitation and Elaboration
+Conceptual Design
+Preliminary and Detailed Design
+Construction, Production, and Utilisation
+Systems Engineering Management
+------------------------------------------------------------------------
+Introduction
+Design Fundamentals
+Client-Server Model
+Network Protocol
+Storage
+Latency and Throughput
+Availability, Catching, Proxies
+Load Balancer
+Hashing
+Relational DB
+Key value storage
+Specialized Storage Paradigms
+Replication and Sharding
+Configuration, etc.
+Java Syntax and Keywords
+OOPS concepts 
+Introduction 
+Core Data Structure
+Advanced-Data Structure
+Implementing and Improving Software 
+---------------------------------------------------------------------
+Airbnb System Design
+Netflix System Design
+Amazon System Design
+Twitter System Design, etc.
+--------------------------------------------------------------------
+Fundamentals
+Networks Deep Dive
+Consistency in Distributed Systems
+Distributed Rate Limiting
+Caching Fundamentals
+Database Migrations
+Design an Audio Search Engine like Shazam
+Interview-ready Fundamentals Test
+High-Level Design
+Design an Emailing service like Gmail
+Chess Design: Building a highly scalable turn-based gaming website
+Calling App Designs like WhatsApp
+Build a workflow management platform like Apache Airflow and Flink
+Design a Live Video Streaming System like ESPN
+Design a collaborative editor like Google Docs
+Interview-ready HLD Test
+Low Level for ML
+Low-Level Design: Payment Tracking Apps like Splitwise
+Machine Coding a Cache
+Machine Coding an Event Bus
+Interview-ready LLD Test
+
+
+
+
+
+
+
 
 
 
